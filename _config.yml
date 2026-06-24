@@ -24,9 +24,9 @@ repository               : "pascalanstoetz/pascalanstoetz.github.io"
 author:
   # Biographic information
   avatar           : # "profile.png"
-  name             : "PhD Student<br>in Sociology"
+  name             : # "PhD Student<br>in Sociology"
   pronouns         : # example: "she/her"  
-  bio              : "Research on Antisemitism, Migration, and Political Attitudes"
+  bio              : "PhD Student in Sociology<br><br>Research on Antisemitism, Migration, and Political Attitudes"
   location         : "Cologne"
   employer         : "University of Cologne"
   uri              : # URL
