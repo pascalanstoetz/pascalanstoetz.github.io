@@ -2,6 +2,7 @@
 title: "Measurement of democratic values: a cross-country comparison with ESS round 10"
 collection: publications
 category: manuscripts
+order: 1
 permalink: /publication/2025-frontiers-democratic-values
 excerpt: 'This study examines the measurement and cross-national comparability of democratic values utilizing the Citizens’ Models of Democracy scale included in the European Social Survey round 10.'
 date: 2025-12-08
