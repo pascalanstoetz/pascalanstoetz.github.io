@@ -7,8 +7,8 @@ permalink: /publication/2024_the_wall_antisemitism
 excerpt: 'Comparative studies analyzing the development of antisemitism in East and West Germany over a longer time period are scarce. The study covers a time span of 30 years to investigate two forms of antisemitism (classical and secondary), especially with respect to inner-German differences.'
 date: 2024-03-29
 venue: 'Thirty Years After the Berlin Wall: German Unification and Transformation Research'
-paperurl: 'https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1612506/pdf'
-citation: 'Bergmann, W., Heyder, A., Kolkwitz-Anstötz, P., Platt, O., & Schmidt, P. (2024). Antisemitism in East and West Germany: Three decades after the wall: a comparative longitudinal study considering age-period-cohort effects. In Thirty Years After the Berlin Wall (pp. 125-152). Routledge. doi: 10.4324/9781003427469-8'
+paperurl: 'https://www.taylorfrancis.com/reader/download/9b7b1237-e471-47ca-852d-f70b1cd89191/chapter/pdf?context=ubx'
+citation: 'Bergmann, W., Heyder, A., Kolkwitz-Anstötz, P., Platt, O., & Schmidt, P. (2024). Antisemitism in East and West Germany: Three decades after the wall: a comparative longitudinal study considering age-period-cohort effects. In A. Heller & P. Schmidt (Eds.), Thirty Years After the Berlin Wall (pp. 125-152). Routledge. doi: 10.4324/9781003427469-8'
 ---
 
 ## Abstract
