@@ -8,7 +8,7 @@ excerpt: 'Comparative studies analyzing the development of antisemitism in East 
 date: 2024-03-29
 venue: 'Thirty Years After the Berlin Wall: German Unification and Transformation Research'
 paperurl: 'https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1612506/pdf'
-citation: 'Bergmann, W., Heyder, A., Kolkwitz-Anstötz, P., Platt, O., & Schmidt, P. (2024). Antisemitism in East and West Germany: Three decades after the wall: a comparative longitudinal study considering age-period-cohort effects. In Thirty Years After the Berlin Wall (pp. 125-152). Routledge. doi: 10.3389/fpos.2025.1612506'
+citation: 'Bergmann, W., Heyder, A., Kolkwitz-Anstötz, P., Platt, O., & Schmidt, P. (2024). Antisemitism in East and West Germany: Three decades after the wall: a comparative longitudinal study considering age-period-cohort effects. In Thirty Years After the Berlin Wall (pp. 125-152). Routledge. doi: 10.4324/9781003427469-8'
 ---
 
 ## Abstract
