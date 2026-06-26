@@ -8,7 +8,7 @@ excerpt: 'This study examines the measurement and cross-national comparability o
 date: 2025-12-08
 venue: 'Frontiers in Political Science'
 paperurl: 'https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1612506/pdf'
-citation: 'Kolkwitz-Anstötz, P., Platt, O., Schmidt, P., & Heyder, A. (2025). Measurement of democratic values: a cross-country comparison with ESS round 10. Frontiers in Political Science, 7, 1612506. doi: 10.3389/fpos.2025.1612506'
+citation: '<b>Kolkwitz-Anstötz, P.</b>, Platt, O., Schmidt, P., & Heyder, A. (2025). Measurement of democratic values: a cross-country comparison with ESS round 10. Frontiers in Political Science, 7, 1612506. doi: 10.3389/fpos.2025.1612506'
 ---
 
 ## Abstract
