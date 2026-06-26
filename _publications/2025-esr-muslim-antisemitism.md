@@ -8,7 +8,7 @@ excerpt: 'Antisemitism is a long-standing, yet recently escalating threat to Jew
 date: 2025-04-30
 venue: 'European Sociological Review'
 paperurl: 'https://czymara.com/files/Czymara_2025_Antisemitism%20among%20Muslims%20in%20Germany.pdf'
-citation: 'Czymara, C. S., Eisentraut, M., Kolkwitz-Anstötz, P., Davidov, E., & Schmidt, P. (2025). Antisemitism among Muslims in Germany. European Sociological Review, 41(4), 607-625. doi: 10.1093/esr/jcaf017'
+citation: 'Czymara, C. S., Eisentraut, M., <b>Kolkwitz-Anstötz, P.</b>, Davidov, E., & Schmidt, P. (2025). Antisemitism among Muslims in Germany. European Sociological Review, 41(4), 607-625. doi: 10.1093/esr/jcaf017'
 ---
 
 ## Abstract
