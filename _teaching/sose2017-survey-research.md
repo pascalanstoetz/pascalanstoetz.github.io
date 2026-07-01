@@ -8,8 +8,7 @@ date: 2017-04-28
 location: "Marburg, Germany"
 ---
 
-Politikwissenschaftliche Methoden & empirische Demokratieforschung<br/>
-SoSe 2017 | Modul: Wahlpflichtmodul Methoden (II)<br/> 
+SoSe 2017 | B.A. Politikwissenschaft | Wahlpflichtmodul Methoden II<br/> 
 2 SWS | Veranstaltungsnummer: 03 141 01001 | Fr., 10:00 – 12:00 Uhr, Raum G00052
 
 ## Course Outline
