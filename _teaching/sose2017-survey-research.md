@@ -1,15 +1,15 @@
 ---
 title: "Analysen mit Daten international vergleichender Surveys"
 collection: teaching
-type: "Seminar"
+type: "Seminar (2SWS)"
 permalink: /teaching/sose2017-survey-research
 venue: "Philipps-Universität Marburg, Institut für Politikwissenschaft"
 date: 2017-04-28
 location: "Marburg, Germany"
 ---
 
-SoSe 2017 | B.A. Politikwissenschaft | Wahlpflichtmodul Methoden II<br/> 
-2 SWS | Veranstaltungsnummer: 03 141 01001 | Fr., 10:00 – 12:00 Uhr, Raum G00052
+SoSe 2017 &#124; B.A. Politikwissenschaft &#124; Wahlpflichtmodul Methoden II<br/> 
+Veranstaltungsnummer: 03 141 01001 &#124; Fr., 10:00 – 12:00 Uhr, Raum G00052
 
 ## Course Outline
 
