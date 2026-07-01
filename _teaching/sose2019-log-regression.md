@@ -1,5 +1,5 @@
 ---
-title: "Analysen mit Daten international vergleichender Surveys"
+title: "Logistische Regression"
 collection: teaching
 type: "Seminar (2SWS)"
 permalink: /teaching/sose2019-log-regression
