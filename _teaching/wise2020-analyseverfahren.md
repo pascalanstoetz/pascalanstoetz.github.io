@@ -1,15 +1,15 @@
 ---
-title: "Quantitative und qualitative Befragung"
+title: "Quantitative und qualitative Analyseverfahren"
 collection: teaching
-type: "Seminar (2SWS)"
-permalink: /teaching/wise2019-befragung
+type: "Seminar (4SWS)"
+permalink: /teaching/wise2020-analyseverfahren
 venue: "Philipps-Universität Marburg, Institut für Politikwissenschaft"
-date: 2019-10-14
+date: 2020-11-03
 location: "Marburg, Germany"
 ---
 
-WiSe 2019 &#124; B.A. Politikwissenschaft &#124; Basismodul Methoden I<br/> 
-Veranstaltungsnummer: 03 129 007 &#124; Mi., 10:00 – 12:00 Uhr, Raum 03B07
+WiSe 2020 &#124; B.A. Politikwissenschaft &#124; Basismodul Methoden I<br/> 
+Veranstaltungsnummer: 03 129 007 &#124; Di., 10:00 – 12:00 & 12:00 - 14:00 Uhr, Raum G00039
 
 ## Course Outline
 
