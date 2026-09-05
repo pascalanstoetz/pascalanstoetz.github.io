@@ -9,7 +9,7 @@ location: "Marburg, Germany"
 ---
 
 SoSe 2020 &#124; B.A. Politikwissenschaft &#124; Wahlpflichtmodul Methoden II<br/> 
-Veranstaltungsnummer: 03 129 S200-08 &#124; Di., 12:00 – 14:00 Uhr, Raum 00038
+Veranstaltungsnummer: 03 129 S200-08 &#124; Di., 12:00 – 14:00 Uhr, Raum G00038
 
 ## Course Outline
 
