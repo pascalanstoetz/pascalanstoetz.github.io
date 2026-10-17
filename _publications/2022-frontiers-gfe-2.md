@@ -8,7 +8,7 @@ excerpt: 'The study reconceptualizes Group-Focused Enmity (GFE) by distinguishin
 date: 2022-04-28
 venue: 'Frontiers in Political Science'
 paperurl: 'https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2022.752810/pdf'
-citation: ' Heyder, A., <b>Kolkwitz-Anstötz, P.</b>, Eisentraut, M., & Schmidt, P(2022). 20 Years After…” GFE 2.0: A Theoretical Revision and Empirical Testing of the Concept of “Group-Focused Enmity” Based on Longitudinal Data. Frontiers in Political Science, 4, 752810. doi: 10.3389/fpos.2022.752810'
+citation: ' Heyder, A., <b>Kolkwitz-Anstötz, P.</b>, Eisentraut, M., & Schmidt, P. (2022). 20 Years After…” GFE 2.0: A Theoretical Revision and Empirical Testing of the Concept of “Group-Focused Enmity” Based on Longitudinal Data. Frontiers in Political Science, 4, 752810. doi: 10.3389/fpos.2022.752810'
 ---
 
 ## Abstract
