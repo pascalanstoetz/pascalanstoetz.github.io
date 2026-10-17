@@ -2,7 +2,7 @@
 title: "DP-R&#124;EX: Das Datenportal für die Rassismus- und Rechtsextremismusforschung"
 collection: publications
 category: manuscripts
-order: 2
+order: 3
 permalink: /publication/2025-zrex-dprex
 excerpt: 'Das Datenportal für Rassismus- und Rechtsextremismusforschung (DP-R&#124;EX) stellt sich vor.'
 date: 2025-10-30
