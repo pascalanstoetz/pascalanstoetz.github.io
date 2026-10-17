@@ -1,5 +1,5 @@
 ---
-title: ". Wie valide ist die empirische Messung der Through- und Outputlegitimität politischer Systeme? Eine kritische Betrachtung"
+title: "Wie valide ist die empirische Messung der Through- und Outputlegitimität politischer Systeme? Eine kritische Betrachtung"
 collection: publications
 category: books
 order: 4
