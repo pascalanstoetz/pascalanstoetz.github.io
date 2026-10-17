@@ -8,7 +8,7 @@ excerpt: 'The study examines how intergroup contact, perceived threat, and immig
 date: 2021-05-19
 venue: '(In)Toleranz in der Einwanderungsgesellschaft? Einstellungen zu Migranten in Deutschland und Europa'
 paperurl: 'https://doi.org/10.1007/978-3-658-32627-2_2'
-citation: '<b>Kolkwitz-Anstötz, P.</b>, & Westle, B.(2021). Do Contextual Differences Between East and West (Still) Matter in Reunified Germany? A Repeated Cross-Section Analysis on Attitudes Towards Immigration 1996 – 2006 – 2016. In In S. Schulz, P. Siegers, B. Westle & O. Hochman (Eds.), (In)Toleranz in der Einwanderungsgesellschaft? Einstellungen zu Migranten in Deutschland und Europa, Reihe Blickpunkt Gesellschaft (pp. 11–54). Springer VS. doi: 10.1007/978-3-658-32627-2_2'
+citation: '<b>Anstötz, P.</b>, & Westle, B.(2021). Do Contextual Differences Between East and West (Still) Matter in Reunified Germany? A Repeated Cross-Section Analysis on Attitudes Towards Immigration 1996 – 2006 – 2016. In In S. Schulz, P. Siegers, B. Westle & O. Hochman (Eds.), (In)Toleranz in der Einwanderungsgesellschaft? Einstellungen zu Migranten in Deutschland und Europa, Reihe Blickpunkt Gesellschaft (pp. 11–54). Springer VS. doi: 10.1007/978-3-658-32627-2_2'
 ---
 
 ## Abstract
