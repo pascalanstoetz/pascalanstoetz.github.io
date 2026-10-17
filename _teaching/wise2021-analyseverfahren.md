@@ -8,7 +8,7 @@ date: 2021-10-20
 location: "Marburg, Germany"
 ---
 
-WiSe 2019 &#124; B.A. Politikwissenschaft &#124; Basismodul Methoden I<br/> 
+WiSe 2021 &#124; B.A. Politikwissenschaft &#124; Basismodul Methoden I<br/> 
 Veranstaltungsnummer: 03 129 007 &#124; Mi., 12:00 – 14:00 Uhr, Raum G00037
 
 ## Course Outline
