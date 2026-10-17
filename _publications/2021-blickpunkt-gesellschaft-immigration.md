@@ -4,7 +4,7 @@ collection: publications
 category: books
 order: 2
 permalink: /publication/2021-blickpunkt-gesellschaft-immigration
-excerpt: 'The study examines how intergroup contact, perceived threat, and immigrant population size shape attitudes toward immigration in East and West Germany over time. Using structural equation modeling and repeated cross-sectional survey data from 1996, 2006, and 2016, the findings highlight the importance of social-psychological mechanisms and changing regional contexts in explaining anti-immigrant attitudes.'
+excerpt: 'The study examines how intergroup contact, perceived threat, and immigrant population size shape attitudes towards immigration in East and West Germany over time. Using structural equation modeling and repeated cross-sectional survey data from 1996, 2006, and 2016, the findings highlight the importance of social-psychological mechanisms and changing regional contexts in explaining anti-immigrant attitudes.'
 date: 2021-05-19
 venue: '(In)Toleranz in der Einwanderungsgesellschaft? Einstellungen zu Migranten in Deutschland und Europa'
 paperurl: 'https://doi.org/10.1007/978-3-658-32627-2_2'
@@ -18,3 +18,7 @@ Research on attitudes and behaviour in intergroup relations often rests on the t
 ## Keywords
 
 Outgroup size, Intergroup contact, Realistic and symbolic threat, Attitudes towards immigration, East and West Germany, German General Social Survey (GGSS),Moderated mediation analysis, Structural equation modelling, Measurement invariance
+
+## Data
+
+[ALLBUS/GGSS 1996 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 1996)](https://doi.org/10.4232/1.11888), [ALLBUS/GGSS 2006 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2006)](https://doi.org/10.4232/1.10832), [ALLBUS/GGSS 2016 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2016)](https://doi.org/10.4232/1.12796).
