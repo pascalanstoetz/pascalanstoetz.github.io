@@ -2,8 +2,8 @@
 title: "“20 Years After…” GFE 2.0: A Theoretical Revision and Empirical Testing of the Concept of “Group-Focused Enmity” Based on Longitudinal Data"
 collection: publications
 category: manuscripts
-order: 1
-permalink: /publication/2022-frontiers-gfe-2.0
+order: 2
+permalink: /publication/2022-frontiers-gfe-2
 excerpt: 'The study reconceptualizes Group-Focused Enmity (GFE) by distinguishing between generalized ideologies of inequality and specific social prejudices. Using representative German survey data, confirmatory factor analyses and measurement invariance testing support this distinction, establish measurement equivalence over time, and demonstrate discriminant validity relative to Social Dominance Orientation (SDO).'
 date: 2022-04-28
 venue: 'Frontiers in Political Science'
