@@ -8,7 +8,7 @@ excerpt: 'The study critically examines the conceptualization and measurement va
 date: 2020-01-24
 venue: 'Legitimität und Legitimation: Vergleichende Perspektiven'
 paperurl: 'https://doi.org/10.1007/978-3-658-26558-8_3'
-citation: '<b>Kolkwitz-Anstötz, P.</b>, Schmidt, P., & Heyder, A. (2021). Wie valide ist die empirische Messung der Through- und Outputlegitimität politischer Systeme? Eine kritische Betrachtung. In C. Wiesner, & P. Harfst (Eds.), Legitimität und Legitimation: Vergleichende Perspektiven (pp. 33–55). Springer VS. doi: 10.1007/978-3-658-26558-8_3'
+citation: '<b>Kolkwitz-Anstötz, P.</b>, Schmidt, P., & Heyder, A. (2021). Wie valide ist die empirische Messung der Through- und Outputlegitimität politischer Systeme? Eine kritische Betrachtung. In C. Wiesner & P. Harfst (Eds.), Legitimität und Legitimation: Vergleichende Perspektiven (pp. 33–55). Springer VS. doi: 10.1007/978-3-658-26558-8_3'
 ---
 
 ## Abstract
