@@ -8,7 +8,7 @@ excerpt: 'The study examines how basic human values shape attitudes towards immi
 date: 2018-10-27
 venue: 'Wahrnehmung – Persönlichkeit – Einstellungen: Psychologische Theorien und Methoden in der Wahl- und Einstellungsforschung'
 paperurl: 'https://doi.org/10.1007/978-3-658-21216-2_4'
-citation: '<b>Kolkwitz-Anstötz, P.</b>, & Westle, B. (2019). Wertvorstellungen, nationale Identifikation, gruppenbezogene Ausgrenzung und Bedrohungswahrnehmung als Determinanten von Einstellungen zu Immigration. In E. Bytzek, M. Steinbrecher, & U. Rosar (Eds.), Wahrnehmung – Persönlichkeit – Einstellungen: Psychologische Theorien und Methoden in der Wahl- und Einstellungsforschung (pp. 101–42). Springer VS. doi: 10.1007/978-3-658-21216-2_4'
+citation: '<b>Kolkwitz-Anstötz, P.</b>, & Westle, B. (2019). Wertvorstellungen, nationale Identifikation, gruppenbezogene Ausgrenzung und Bedrohungswahrnehmung als Determinanten von Einstellungen zu Immigration. In E. Bytzek, M. Steinbrecher & U. Rosar (Eds.), Wahrnehmung – Persönlichkeit – Einstellungen: Psychologische Theorien und Methoden in der Wahl- und Einstellungsforschung (pp. 101–42). Springer VS. doi: 10.1007/978-3-658-21216-2_4'
 ---
 
 ## Abstract
