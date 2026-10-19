@@ -1,3 +1,4 @@
+
 {% include base_path %}
 
 {% if post.header.teaser %}
@@ -39,14 +40,9 @@
         {{ post.date | date: '%B %d, %Y' }}
       </p>
     {% endif %}
-{% if post.venue or post.location %}
-  <p class="archive__item-excerpt" itemprop="description">{% if post.type %}{{ post.type }}{% endif %}{% if post.venue %}{% if post.type %}, {% endif %}{{ post.venue }}{% endif %}{% if post.location %}, {{ post.location }}{% endif %}</p>
-{% endif %}
 
-    {% if post.excerpt %}
-      <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify }}
-      </p>
+    {% if post.venue or post.location %}
+      <p class="archive__item-excerpt" itemprop="description">{% if post.type %}{{ post.type }}{% endif %}{% if post.venue %}{% if post.type %}, {% endif %}{{ post.venue }}{% endif %}{% if post.location %}, {{ post.location }}{% endif %}</p>
     {% endif %}
 
   </article>
