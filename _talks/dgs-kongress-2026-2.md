@@ -9,7 +9,7 @@ date: 2026-09-29
 location: "Mainz, Germany"
 ---
 
-43. Kongress der Deutschen Gesellschaft für Soziologie (DGS)
+43\. Kongress der Deutschen Gesellschaft für Soziologie (DGS)
 
 ## Contributors
 
