@@ -13,7 +13,7 @@ location: "Mainz, Germany"
 
 ## Contributors
 
-Hilgenstock, Marlene, Kolkwitz-Anstötz, Pascal, Jedinger, Alexander, Siegers, Pascal, Manderscheid, Theresa, El Masri, Mirna & Dollmann, Jörg
+Hilgenstock, Marlene (presenter), Kolkwitz-Anstötz, Pascal, Jedinger, Alexander, Siegers, Pascal, Manderscheid, Theresa, El Masri, Mirna & Dollmann, Jörg
 
 ## Abstract
 
