@@ -18,7 +18,7 @@
 
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
-        <img src="{% if teaser contains "://" %}{{ teaser }}{% else %}{{ teaser | prepend: "/images/" | prepend: base_path }}{% endif %}" alt="">
+        <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="">
       </div>
     {% endif %}
 
@@ -41,16 +41,16 @@
       </p>
     {% endif %}
 
-    {% if post.venue or post.location %}
-      <p class="archive__item-excerpt" itemprop="description">{% if post.type %}{{ post.type }}{% endif %}{% if post.venue %}{% if post.type %}, {% endif %}{{ post.venue }}{% endif %}{% if post.location %}, {{ post.location }}{% endif %}</p>
+    {% if post.type or post.venue or post.location %}
+      <p>{% if post.type %}{{ post.type }}{% endif %}{% if post.venue %}{% if post.type %}, {% endif %}<i>{{ post.venue }}</i>{% endif %}{% if post.location %}{% if post.type or post.venue %}, {% endif %}{{ post.location }}{% endif %}</p>
     {% endif %}
 
-   {% if post.content %}
-    {% assign talk_intro = post.content | split: '<h2' | first %}
-    <div class="archive__item-excerpt" itemprop="description">
-      {{ talk_intro }}
-    </div>
-   {% endif %}
+    {% if post.content %}
+      {% assign talk_intro = post.content | split: '<h2' | first %}
+      <div itemprop="description">
+        {{ talk_intro }}
+      </div>
+    {% endif %}
 
   </article>
 </div>
