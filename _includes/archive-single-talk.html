@@ -45,11 +45,12 @@
       <p class="archive__item-excerpt" itemprop="description">{% if post.type %}{{ post.type }}{% endif %}{% if post.venue %}{% if post.type %}, {% endif %}{{ post.venue }}{% endif %}{% if post.location %}, {{ post.location }}{% endif %}</p>
     {% endif %}
 
-    {% if post.excerpt %}
-      <div class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify }}
-      </div>
-    {% endif %}
+   {% if post.content %}
+    {% assign talk_intro = post.content | split: '<h2' | first %}
+    <div class="archive__item-excerpt" itemprop="description">
+      {{ talk_intro }}
+    </div>
+   {% endif %}
 
   </article>
 </div>
