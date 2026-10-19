@@ -1,6 +1,7 @@
 ---
 title: "Dimensions of antisemitism in Germany: Measuring them and examining their determinants"
 collection: talks
+category: conference
 type: "Conference Presentation"
 permalink: /talks/asa-meeting-2026
 venue: "Hilton New York Midtown/Sheraton New York Times Square"
