@@ -93,6 +93,15 @@ publication_category:
   researchdata:
     title: 'Research Data'
 
+# Talk Category
+talk_category:
+ conference:
+   title: 'Conference Presentations'
+ organized:
+   title: 'Organized Conference Sessions'
+ poster:
+   title: 'Poster Presentations'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
