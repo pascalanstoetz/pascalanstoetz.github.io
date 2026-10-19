@@ -11,6 +11,8 @@ location: "Mainz, Germany"
 
 43\. Kongress der Deutschen Gesellschaft für Soziologie (DGS)
 
+<!--more-->
+
 ## Contributors 
 
 Kolkwitz-Anstötz, Pascal, Hilgenstock, Marlene, Jedinger, Alexander (presenter) & Siegers, Pascal
